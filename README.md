@@ -40,4 +40,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To try play default test quiz enter 1234 code 
+To try playing default test quiz, enter 1234 code 
